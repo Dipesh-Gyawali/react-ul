@@ -9,6 +9,6 @@ The sample of project that we are taught during this lectures are:
 2) Cinemate:- https://dipesh3.netlify.app/
 3) Shopping Cart:- https://dipesh4.netlify.app/
 4) REDUX Shopping Cart:- https://dipesh5.netlify.app/
-5) Ecommerce :- https://dipesh7.netlify.app/ (Under Construction)
+5) Ecommerce :- https://dipesh7.netlify.app/ (It is Under Construction)
 
 
